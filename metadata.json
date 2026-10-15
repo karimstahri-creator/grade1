@@ -1,0 +1,8 @@
+{
+  "name": "Remix منظومة إدارة الأحزمة - الجامعة التونسية للووشو كونغ فو",
+  "description": "نظام رقمي متكامل لإدارة قاعدة بيانات الأحزمة والدرجات الفنية، طلبات الترقية، حسابات الجمعيات الرياضية واستيراد وتصدير التقارير الرسمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
